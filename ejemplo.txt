@@ -1,11 +1,13 @@
 Hola mundo
 
-me llamo gibran
+me llamo jose
 
 me gusta la musica
 
-soy de durango
+soy de tamaulipas
 
 me gusta patinar
 
 git es asombroso
+
+el sushi es genial
