@@ -7,3 +7,5 @@ me gusta la musica
 soy de durango
 
 me gusta patinar
+
+git es asombroso
