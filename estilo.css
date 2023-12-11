@@ -1,8 +1,20 @@
 body {
-  color: red;
-  text-align: center;
+  color: rgb(255, 0, 0);
+  text-align: justify;
   font-family: "Franklin Gothic Medium";
-  font-size: x-large;
+  font-size: x-small;
+}
+
+#cabeza {
+  color: green;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: medium;
+  text-align: center;
+}
+
+#saludos {
+  color: blue;
+  text-align: right;
 }
 #cabecera {
   color: black;
