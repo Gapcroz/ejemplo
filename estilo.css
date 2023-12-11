@@ -1,3 +1,6 @@
-.saludos {
+body {
   color: red;
+  text-align: center;
+  font-family: "Franklin Gothic Medium";
+  font-size: x-large;
 }
